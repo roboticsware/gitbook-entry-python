@@ -1,0 +1,5 @@
+# 4.2 Protsessual (Procedural)
+
+Dasturlash paradigmalari orasida "tartibga yo‘naltirilgan" (procedural) paradigma mavjud. Bu dasturlashning eng an'anaviy paradigmasi bo‘lib, dastlab paydo bo‘lgan paradigmalar orasida eng birinchisi hisoblanadi. Biz bilib-bilmay Entry blokli kodlashda ham ushbu paradigmani qo‘llab kelganmiz. [3.8-bo‘lim](../boshlash/funksiya.md)da funksiyalarning zaruriyati va maqsadini yaxshi tushungan edik. Dastur ichida qayta foydalanish imkoniyati (reusability) yuqori bo‘lgan kodlarni funksiyalarga ajratib, ularni chaqirish orqali kod yozish usuli jarayon yo‘naltirilgan paradigma sifatida tanilgan. Ilgari funksiya(function) atamasi o‘rniga "tartib(procedure)" yoki "sub-programma(sub-routine)" deb atalgan. Shu sababli, tartibga yo‘naltirilgan dasturlashning inglizcha nomi "procedural" bo‘lib kelgan.
+
+Tartibga yo‘naltirilgan paradigmaning misollari oldingi bo‘limlarda funksiyalarni o‘rganishda ko‘rgan misollardan unchalik farq qilmaydi, shuning uchun o‘sha misollarni bu yerda ham qo‘llash kifoya.
